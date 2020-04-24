@@ -5,7 +5,7 @@ abstract class Animal {
 
 class Cat extends Animal {
     public void makeSound() {
-        System.out.println("Meow");
+        System.out.println("Meow!");
     }
 }
 
